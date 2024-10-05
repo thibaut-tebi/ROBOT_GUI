@@ -39,7 +39,7 @@ This Python project is a GUI-based controller for a robotic arm, designed to mov
     ```
 
 ## GUI Overview
-
+![image](https://github.com/user-attachments/assets/63245aba-d139-417a-9ef5-84051b458006)
 - **Grid Representation**: The grid represents the cell culture plate. Each cell can be toggled on/off by clicking.
 - **Header Buttons**:
   - `Save`: Save the current configuration to a JSON file.
@@ -55,6 +55,6 @@ This Python project is a GUI-based controller for a robotic arm, designed to mov
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-![image](https://github.com/user-attachments/assets/63245aba-d139-417a-9ef5-84051b458006)
+
 
 

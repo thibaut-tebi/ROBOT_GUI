@@ -27,7 +27,7 @@ This Python project is a GUI-based controller for a robotic arm, designed to mov
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/robot-arm-gui-controller.git
+    git clone [https://github.com/thibaut-tebi/ROBOT_GUI.git]
     ```
 2. Install the required packages:
     ```bash

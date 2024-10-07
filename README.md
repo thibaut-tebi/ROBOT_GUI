@@ -47,6 +47,11 @@ This Python project is a GUI-based controller for a robotic arm, designed to mov
   - `Export`: Export the configuration as a CSV file.
   - `Send to Robot`: Send the current configuration to the robotic arm.
 
+## VIDEO 
+
+https://github.com/user-attachments/assets/bac64966-7467-412c-8d2c-75b375d26177
+
+
 ## Troubleshooting
 
 - If you encounter a serial port error (`FileNotFoundError`), ensure that the correct serial port is specified in the code (`COM3` or change it to your active port).
